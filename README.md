@@ -18,4 +18,4 @@
 
 `$ pipenv shell`
 
-登入後，就能夠執行同步(synch.py)及非同步(asynch.py)的Python網頁爬蟲。
+登入後，就能夠執行Python網頁爬蟲的範例程式。
